@@ -1,1 +1,1 @@
-This repository includes R scripts that can be used to quickly download and visualize the National Financial Conditions Index produced by the Federal Reserve Bank of Chicago. 
+This repository includes R scripts that can be used to quickly download and visualize the National Financial Conditions Index produced by the Federal Reserve Bank of Chicago and replicate the results in the Chicago Fed Insights post found at https://www.chicagofed.org/publications/chicago-fed-insights/2024/nfci-future-economic-growth. 
